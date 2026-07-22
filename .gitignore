@@ -35,6 +35,7 @@
 *.lib
 
 # Executables
+main
 *.exe
 *.out
 *.app
@@ -67,3 +68,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# brain-storming notes
+notes.md
+design
